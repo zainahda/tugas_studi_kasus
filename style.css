@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.heros {
+  height: 95vh;
+  width: 100%;
+  background-size: cover;
+}
+.hero-home {
+  background: url("./assets/building01.jpg") no-repeat;
+}
+
+.hero-features {
+  background: url("./assets/building02.jpg") no-repeat;
+  background-size: cover;
+}
+
+.hero-about {
+  background: url("./assets/building03.jpg") no-repeat;
+  background-size: cover;
+}
+
+.display-title {
+  letter-spacing: 10px;
+}
+
+.section-card, .card-info {
+  background-color: #b9b9b9 !important;
+}
+
+.section-about {
+  padding: 10px 150px !important;
+}
+
+.sub-text {
+  text-align: justify;
+}
